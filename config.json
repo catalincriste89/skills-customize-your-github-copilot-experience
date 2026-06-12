@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "flask-web-app",
+      "title": "Building Your First Web Application with Flask",
+      "description": "Learn web fundamentals: routing, templates, and form handling using Flask",
+      "path": "assignments/flask-web-app",
+      "dueDate": "2026-06-19",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
